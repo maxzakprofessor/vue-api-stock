@@ -88,6 +88,7 @@
                       <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
                       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
                       <img src="https://img.shields.io/badge/JWT-brightgreen?logo=jsonwebtokens" alt="JWT">
+                      <img src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=white" alt="PythonAnywhere">
                     </div>
                   </div>
                   <hr class="opacity-10">
@@ -98,6 +99,7 @@
                         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" alt="Vite">
                         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
                         <img src="https://img.shields.io/badge/Gemini-AI-orange?style=flat&logo=google-gemini&logoColor=white" alt="Gemini AI">
+                                              <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
                     </div>
                   </div>
                 </div>
